@@ -16,8 +16,8 @@
         <mxCell id="dB56ee7RwBfn1si00OCh-3" value="RRDB网络提取特征" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dB56ee7RwBfn1si00OCh-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="dB56ee7RwBfn1si00OCh-5" value="U-Net网络执行去噪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
